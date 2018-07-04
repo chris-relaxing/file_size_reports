@@ -14,5 +14,5 @@ If there is not a match in file names between quarters, then the file will be li
 ![alt text](http://bluegalaxy.info/images/file-size-reports-output.png)<br><br>
 
 ### Use Cases:<br>
-This script came about due to the fact that P&RP often asks after product releases why there is drop in file sizes between the the current quarter’s product release folder and the previous quarter’s product release folder. This script addresses the question by creating a report that details exactly which files changed in file size between quarters.<br><br>
+This script came about due to the fact that digital distribution often asks after product releases why there is drop in file sizes between the the current quarter’s product release folder and the previous quarter’s product release folder. This script addresses the question by creating a report that details exactly which files changed in file size between quarters.<br><br>
 This script can also be useful as a product validation tool to ensure that there are no unexpected file size drops.
